@@ -41,7 +41,7 @@ The data is from Vesta who is an eCommerce payment solution corporation.
 -	Over 590,000 Transactions & 394 Features
 -	The features include data card information, amount, fraud/notFraud, time/date and many more features engineered by Vesta. 
 
-To access and view a detailed description of the dataset, [Vesta Corporation Transaction Information](https://www.kaggle.com/c/ieee-fraud-detection)
+To access and view a detailed description of the dataset, [Vesta Transactions Data](https://www.kaggle.com/c/ieee-fraud-detection)
 
 
 
