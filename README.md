@@ -16,7 +16,6 @@ For this project, a pipeline was built to collect the data and store it in an SQ
 
 
 
-
 ---
 
 
@@ -38,11 +37,11 @@ Therefore, for this project a classification machine learning model using Random
 
 
 The data is from Vesta who is an eCommerce payment solution corporation. 
-•	Multiple csv files
-•	Over 590,000 Transactions & 394 Features
-o	The features include data card information, amount, fraud/notFraud, time/date and many more features engineered by Vesta. 
+-	Multiple csv files
+-	Over 590,000 Transactions & 394 Features
+-	The features include data card information, amount, fraud/notFraud, time/date and many more features engineered by Vesta. 
 
-To access and view a detailed description of the dataset, click here Dataset
+To access and view a detailed description of the dataset, [Vesta Corporation Transaction Information](https://www.kaggle.com/c/ieee-fraud-detection)
 
 
 
