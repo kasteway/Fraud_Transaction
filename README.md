@@ -26,7 +26,7 @@ For this project, a pipeline was built to collect the data and store it in an SQ
 We saw an 18% growth in global eCommerce fraud losses from 2020 to 2021.  Due to the recent pandemic, many customers and consumers found eCommerce to be convenient in many ways. However, that also meant more opportunities for the fraudsters and they were able to increase the amount they stole. 
 Therefore, for this project a classification machine learning model using RandomForest Classifier to predict fraud transactions. A pipeline was built to collect the data and perform machine learning to predict if the transaction was fraud and deployed an app to show the results. 
 
-
+[alt text](fraud.png)
 
 
 ---
