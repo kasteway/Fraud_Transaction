@@ -13,7 +13,7 @@ For this project, a pipeline was built to collect the data and store it in an SQ
 
 
 
-
+![alt text](homepage.png)
 
 
 ---
