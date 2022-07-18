@@ -4,7 +4,7 @@
 
 ---
 
-### Abstract:
+### Abstract
 
 
 The goal of this project is to build a classification machine learning model to predict fraud transactions. The global eCommerce fraud losses in 2021 were estimated to be $20 billion. Therefore, having an application that can detect and warn consumers is a vital step in reducing fraud transactions.
