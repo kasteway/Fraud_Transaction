@@ -33,7 +33,7 @@ Therefore, for this project a classification machine learning model using Random
 
 
 
-### Data
+### Data:
 
 
 The data is from Vesta who is an eCommerce payment solution corporation. 
