@@ -48,7 +48,7 @@ To access and view a detailed description of the dataset, [Vesta Transactions Da
 ---
 
 
-### Machine Learning Algorithms
+### Machine Learning Algorithms:
 
 
 Machine Learning classification algorithms:
