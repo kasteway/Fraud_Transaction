@@ -64,7 +64,7 @@ Machine Learning classification algorithms:
 
 
 
-### **TOOLS**
+### TOOLS:
 
 The following tools were used in this project:
 1.	SQL, Python & Pandas to clean, explore and generate the final modeling data
