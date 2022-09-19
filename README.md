@@ -71,7 +71,7 @@ The following tools were used in this project:
 2.	Matplotlib and Seaborn to generate visualizations
 3.	SKLearn to build Machine Learning classification models and measuring metrics
 4.	Streamlit to develop the app
-5.	Heroku to deploy the app
+5.	Heroku to deploy the app.
 6.	Docker to create a smooth pipeline.
 
 
