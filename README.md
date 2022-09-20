@@ -68,7 +68,7 @@ Machine Learning classification algorithms:
 
 The following tools were used in this project:
 1.	SQL, Python & Pandas to clean, explore and generate the final modeling data
-2.	Matplotlib and Seaborn to generate visualizations
+2.	Matplotlib and Seaborn to generate visualizations.
 3.	SKLearn to build Machine Learning classification models and measuring metrics
 4.	Streamlit to develop the app.
 5.	Heroku to deploy the app.
